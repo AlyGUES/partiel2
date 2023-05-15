@@ -1,0 +1,77 @@
+.top {
+    padding-top: 5em;
+    padding-bottom: 2em;
+}
+
+.card-title {
+    font-size: 45px;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+.nav {
+    padding-top: 0em;
+}
+
+.navright {
+    display: flex;
+}
+
+.nav-link {
+    padding-right: 1em !important;
+}
+
+body {
+    margin-left: 20em !important;
+    margin-right: 20em !important;
+}
+
+.container-fluid {
+    margin-left: 20em !important;
+    margin-right: 20em !important;
+}
+
+.bigcad {
+    margin-left: 10em !important;
+}
+
+.blocblue {
+    background-color: #03224c;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 0.5em;
+}
+
+.pg {
+    margin-top: 3em !important;
+}
+
+.blocwhite {
+    background-color: aliceblue;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+    text-align: center;
+    color: black;
+    margin-top: 2em;
+
+}
+
+.copyright {
+    text-align: center;
+}
+
+.textblocw {
+    padding-right: 20em;
+    padding-left: 20em;
+    font-style: italic;
+}
+
+.firstp {
+    font-size: 25px;
+}
